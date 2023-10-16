@@ -23,6 +23,7 @@ O volume de um micro-ondas é o espaço tridimensional dentro do aparelho. Para 
 O consumo de energia de um micro-ondas pode variar com base no modelo, na potência e na duração do uso. A maioria dos micro-ondas tem uma potência que geralmente varia de 600 watts a 1.200 watts. 
 
 O custo de um micro-ondas pode variar amplamente com base em vários fatores, incluindo a marca, o modelo, o tamanho, as características e a região onde você está comprando.
+
 TV:Para calcular a área de uma televisão (TV), você precisa medir as dimensões da tela, que é a parte visível da TV. A área da tela da TV é geralmente medida em polegadas quadradas (in²) ou centímetros quadrados (cm²)
 
 eterminar o volume de uma TV é uma tarefa um pouco incomum, pois as TVs são dispositivos bidimensionais, e o volume geralmente é uma medida reservada para objetos tridimensionais. O volume é uma medida de espaço em três dimensões (comprimento, largura e altura), e as TVs geralmente têm apenas duas dimensões (comprimento e largura).
@@ -30,5 +31,13 @@ eterminar o volume de uma TV é uma tarefa um pouco incomum, pois as TVs são di
 O consumo de energia de uma TV pode variar significativamente com base no tipo de TV, tamanho, tecnologia de exibição e modelo.
 
 O custo de uma TV pode variar significativamente com base em vários fatores, incluindo a marca, o tamanho, a resolução, a tecnologia de exibição, as características e a região onde você está comprando.
+
+chuveiro:A área de um chuveiro normalmente se refere à área da base do chuveiro, onde você fica de pé ou senta para tomar banho.
+
+determinar o volume de um chuveiro é uma tarefa um pouco incomum, uma vez que um chuveiro geralmente é uma estrutura bidimensional, onde a água flui, mas não forma um volume tridimensional delimitado, como um objeto sólido.
+
+O consumo de energia de um chuveiro é determinado principalmente pela potência do chuveiro elétrico e pela duração do uso. 
+
+O custo de um chuveiro pode variar significativamente com base em vários fatores, incluindo o tipo de chuveiro, a marca, o modelo, a qualidade, as características e a região onde você está comprando.
 
 
